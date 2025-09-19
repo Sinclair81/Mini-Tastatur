@@ -5315,7 +5315,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_MiniMELF"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 146.05 131.445 0)
 			(effects
 				(font
@@ -5333,7 +5333,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "75V 0.15A Fast switching Diode, SOD-80"
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
 			(at 146.05 135.89 0)
 			(effects
 				(font
@@ -5401,7 +5401,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
+		(property "Footprint" "SOT65P212X110-5N"
 			(at 153.67 172.39 0)
 			(effects
 				(font
@@ -8675,7 +8675,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SSD1306:MODULE_DM-OLED096-636"
+		(property "Footprint" "DM-OLED096-636:MODULE_DM-OLED096-636"
 			(at 144.78 53.34 0)
 			(effects
 				(font

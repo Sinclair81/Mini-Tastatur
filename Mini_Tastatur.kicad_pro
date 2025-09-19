@@ -61,27 +61,39 @@
       "drc_exclusions": [
         [
           "lib_footprint_mismatch|87252500|98390000|7949904a-3d22-4bbc-868e-e64f3d693a0d|00000000-0000-0000-0000-000000000000",
-          "changes on purpose"
+          "on purpose"
         ],
         [
-          "lib_footprint_mismatch|90980000|93977500|82695237-24c2-465e-b3f4-e1fc849bd857|00000000-0000-0000-0000-000000000000",
-          "changes on purpose"
+          "lib_footprint_mismatch|90500000|93000000|82695237-24c2-465e-b3f4-e1fc849bd857|00000000-0000-0000-0000-000000000000",
+          "on purpose"
         ],
         [
-          "starved_thermal|104140000|108080000|a62da0d1-61d7-420e-a78f-9600dd433c78|98ed34b2-f05c-4bf4-a6e0-5b6f00481358|B.Cu",
-          "unnecessary"
+          "starved_thermal|116840000|108080000|a62da0d1-61d7-420e-a78f-9600dd433c78|a4ce4e36-61ff-4448-8656-771bed51b1e4|B.Cu",
+          "ok"
         ],
         [
-          "starved_thermal|124602304|97462304|a62da0d1-61d7-420e-a78f-9600dd433c78|7e95f8e0-10cc-4867-af75-0ea5ce0d221c|B.Cu",
-          "unnecessary"
+          "starved_thermal|126480000|98300000|91375e7b-4b37-417f-a9ba-059d74b7a543|7e95f8e0-10cc-4867-af75-0ea5ce0d221c|F.Cu",
+          "ok"
+        ],
+        [
+          "starved_thermal|126480000|98300000|a62da0d1-61d7-420e-a78f-9600dd433c78|7e95f8e0-10cc-4867-af75-0ea5ce0d221c|B.Cu",
+          "ok"
+        ],
+        [
+          "starved_thermal|78740000|108080000|a62da0d1-61d7-420e-a78f-9600dd433c78|378fe0c4-8af6-4adc-873b-2e3c98c31c2c|B.Cu",
+          "ok"
         ],
         [
           "starved_thermal|78740000|88700000|a62da0d1-61d7-420e-a78f-9600dd433c78|4a1b4444-04bc-45aa-a920-df28d52bfbb3|B.Cu",
-          "unnecessary"
+          "ok"
+        ],
+        [
+          "starved_thermal|91440000|108080000|a62da0d1-61d7-420e-a78f-9600dd433c78|20302662-a5d2-45f4-91ab-f7341c0aac6c|B.Cu",
+          "ok"
         ],
         [
           "starved_thermal|91440000|88700000|a62da0d1-61d7-420e-a78f-9600dd433c78|fe68bd75-62c5-417f-b4ef-43bd2e59204a|B.Cu",
-          "unnecessary"
+          "ok"
         ]
       ],
       "meta": {
