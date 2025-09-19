@@ -3,7 +3,7 @@
 [![donate](https://img.shields.io/badge/donate-PayPal-blue.svg)](https://www.paypal.me/Sinclair81)
 
 <!-- markdownlint-disable MD033 -->
-<img src="https://github.com/Sinclair81/Mini-Tastatur/blob/main/3D_Front.jpg" align="right" alt="3D_Front" height="516" width="350">
+<img src="https://github.com/Sinclair81/Mini-Tastatur/blob/main/Images/3D_Front.jpg" align="right" alt="3D_Front" height="516" width="350">
 <!-- markdownlint-enable MD033 -->
 
 A smal clone of the [Adafruit MacroPad RP2040](https://learn.adafruit.com/adafruit-macropad-rp2040).  
