@@ -20,7 +20,7 @@ display = SSD1306(display_bus, width=128, height=64)
 
 # Textgruppe erstellen
 splash = displayio.Group()
-text = label.Label(terminalio.FONT, text="Hallo Mario!!", x=10, y=10)
+text = label.Label(terminalio.FONT, text="Hello World!!", x=10, y=10)
 splash.append(text)
 
 # Anzeige setzen
